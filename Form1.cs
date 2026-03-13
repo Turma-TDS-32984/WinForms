@@ -15,6 +15,7 @@ namespace WinForms
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Oi criaturas");
         }
     }
 }
